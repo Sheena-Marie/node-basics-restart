@@ -2,3 +2,4 @@
 ## Udemy - Andrew Mead(Teacher)
 
 1. variables.js
+2. strings.js
